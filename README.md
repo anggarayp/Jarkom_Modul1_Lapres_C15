@@ -189,7 +189,7 @@ Berikut adalah hasil ketika wireshark hanya mengambil paket yang menuju ke monta
 
 ![15.2](https://github.com/anggarayp/Jarkom_Modul1_Lapres_C15/blob/main/Screenshots/15.2.png)
 
-###Kendala Yang Dialami
+### Kendala Yang Dialami Selama Pengerjaan
 
 - Nomor 8 tidak dapat menunjukkan kalau itu didapatkan dari koneksi ftp dengan Microsoft FTP Service. Tapi, sudah direvisi sehingga filter bisa menampilkan hasil yang benar.
 - Website aku.pengen.pw fotonya tidak muncul
